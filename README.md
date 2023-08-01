@@ -26,7 +26,7 @@ This repository contains a Python script that analyzes Netflix movie data and vi
   cd netflix-movie-analysis
 
 2. Run the Python script to perform the analysis:
-   python netflix_analysis.py
+   python analyzing_netflix_data.py
 
 
 The script will generate the following outputs:
